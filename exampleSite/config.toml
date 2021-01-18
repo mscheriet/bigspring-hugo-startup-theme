@@ -25,8 +25,8 @@ name = "Budgeting Sheet"
 URL = "https://www.honeybeepodcast.com/"
 name = "Podcast"
 [[menu.footer_middle]]
-URL = "#"
-name = "Features"
+URL = "https://www.honeybeepodcast.com/blog/"
+name = "Blog"
 [[menu.footer_right]]
 URL = "privacy-policy"
 name = "Privacy Policy"
