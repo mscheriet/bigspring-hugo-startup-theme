@@ -28,14 +28,14 @@ name = "Podcast"
 URL = "https://www.honeybeepodcast.com/blog/"
 name = "Blog"
 [[menu.footer_right]]
+URL = "mailto:thehoneybeepodcast@gmail.com"
+name = "Sponsor"
+[[menu.footer_right]]
 URL = "privacy-policy"
 name = "Privacy Policy"
 [[menu.footer_right]]
 URL = "terms-conditions"
 name = "Terms & Conditions"
-[[menu.footer_right]]
-URL = "faq"
-name = "FAQ"
 [[menu.main]]
 URL = "blog"
 name = "Blog"
