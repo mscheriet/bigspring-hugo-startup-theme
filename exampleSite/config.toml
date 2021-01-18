@@ -6,7 +6,7 @@ languageName = "En"
 paginate = "3"
 summaryLength = "15"
 theme = "bigspring"
-title = "Bigspring Hugo"
+title = "Honeybee Podcast"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer_left]]
@@ -84,7 +84,7 @@ enable = false
 preloader = ""
 [[params.social]]
 icon = "ti-instagram"
-link = "wwww.instagram.com/honeybeepodcast"
+link = "https://wwww.instagram.com/honeybeepodcast"
 title = "instagram"
 [[params.social]]
 icon = "ti-twitter-alt"
