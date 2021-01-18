@@ -10,6 +10,9 @@ title = "Honeybee Podcast"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer_left]]
+URL = "Wedding Budget Planner"
+name = "Wedding Budget Planner"
+[[menu.footer_left]]
 URL = "Renovation Budget Guidebook"
 name = "Renovation Budget Guidebook"
 [[menu.footer_left]]
