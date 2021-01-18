@@ -62,7 +62,7 @@ footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
 logo = "images/honeybee-podcast.png"
-logo_width = "200px"
+logo_width = "100px"
 [params.navigation_button]
 enable = true
 label = "Get Started"
