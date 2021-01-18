@@ -22,11 +22,8 @@ name = "Insurance Guidebook"
 URL = "#"
 name = "Budgeting Sheet"
 [[menu.footer_middle]]
-URL = "pricing"
-name = "Pricing"
-[[menu.footer_middle]]
-URL = "#"
-name = "Platform"
+URL = "https://www.honeybeepodcast.com/"
+name = "Podcast"
 [[menu.footer_middle]]
 URL = "#"
 name = "Features"
