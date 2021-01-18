@@ -37,21 +37,13 @@ name = "Privacy Policy"
 URL = "terms-conditions"
 name = "Terms & Conditions"
 [[menu.main]]
+URL = "https://www.honeybeepodcast.com/"
+name = "Podcast"
+weight = ""
+[[menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 1
-[[menu.main]]
-URL = "pricing"
-name = "Pricing"
-weight = 2
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 3
-[[menu.main]]
-URL = "faq"
-name = "FAQ"
-weight = 4
 [params]
 author = "Honeybee Podcast"
 contact_form_action = "thehoneybeepodcast@gmail.com"
