@@ -55,7 +55,7 @@ weight = 4
 [params]
 author = "Honeybee Podcast"
 contact_form_action = "#"
-copyright = "Design By [Honeybee Podcast](https://honeybeepodcast.com) Develop By [Honeybee Podcast](https://honeybeepodcast.com)"
+copyright = "Design By [Honeybee Podcast](https://honeybeepodcast.com) | Develop By [Honeybee Podcast](https://honeybeepodcast.com)"
 description = "The Honeybee Podcast: Debugging Persona Finance"
 footer_content = "The Honeybee Podcast debugs personal finance through interviews with real living hoomans in Snigapore."
 footer_menu_left = "Company"
@@ -90,4 +90,3 @@ title = "instagram"
 icon = "ti-twitter-alt"
 link = "https://twitter.com/honeybeepodcast"
 title = "twitter"
-
