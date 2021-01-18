@@ -10,25 +10,19 @@ title = "Honeybee Podcast"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer_left]]
-URL = "pricing"
-name = "Pricing"
+URL = "#"
+name = "About Honeybee"
+url = "#"
 weight = 1
-[[menu.footer_left]]
+[[menu.footer_middle]]
 URL = "#"
-name = "Quick Start"
-weight = 2
-[[menu.footer_left]]
-URL = "#"
-name = "About Us"
+name = "Podcast"
+url = "https://anchor.fm/honeybee-podcast"
+weight = 1
+[[menu.footer_right]]
+name = "Contact"
+url = "/contact"
 weight = 3
-[[menu.footer_middle]]
-URL = "#"
-name = "Platform"
-weight = 1
-[[menu.footer_middle]]
-URL = "pricing"
-name = "Pricing"
-weight = 2
 [[menu.footer_right]]
 URL = "terms-conditions"
 name = "Terms & Conditions"
