@@ -11,6 +11,9 @@ title = "Honeybee Podcast"
 unsafe = true
 [[menu.footer_left]]
 URL = "#"
+name = "Insurance Guidebook"
+[[menu.footer_left]]
+URL = "#"
 name = "Budgeting Sheet"
 [[menu.footer_middle]]
 URL = "pricing"
