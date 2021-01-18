@@ -10,8 +10,21 @@ title = "Honeybee Podcast"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer_left]]
+name = "Renovation Budget Planner"
+weight = 5
+[[menu.footer_left]]
+name = "Wedding Budget Planner"
+weight = 4
+[[menu.footer_left]]
+name = "Investments Guidebook"
+weight = 3
+[[menu.footer_left]]
+name = "Insurance Guidebook"
+url = "#"
+weight = 2
+[[menu.footer_left]]
 URL = "#"
-name = "About Honeybee"
+name = "Budgeting Sheet"
 url = "#"
 weight = 1
 [[menu.footer_middle]]
