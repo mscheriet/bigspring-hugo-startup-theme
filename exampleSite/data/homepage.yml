@@ -8,7 +8,7 @@ banner:
     label: Listen to the Podcast
     link: https://anchor.fm/honeybee-podcast
 feature:
-  enable: true
+  enable: false
   title: Checklist for Listening to Honeybee
   feature_item:
   - name: Your Savings
