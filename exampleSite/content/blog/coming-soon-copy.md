@@ -3,7 +3,7 @@ date = 2021-01-18T03:00:00Z
 description = "~Coming soon"
 draft = true
 image = "images/blog/post-3.jpg"
-title = "~Coming Soon-(copy)"
+title = "TEMPLATE"
 type = "regular"
 
 +++
