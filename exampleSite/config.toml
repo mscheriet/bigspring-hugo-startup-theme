@@ -39,7 +39,7 @@ name = "Terms & Conditions"
 [[menu.main]]
 URL = "https://www.honeybeepodcast.com/"
 name = "Podcast"
-weight = ""
+weight = "2"
 [[menu.main]]
 URL = "blog"
 name = "Blog"
