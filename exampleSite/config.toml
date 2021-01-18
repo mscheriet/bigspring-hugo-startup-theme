@@ -10,48 +10,42 @@ title = "Honeybee Podcast"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer_left]]
-name = "Renovation Budget Planner"
-weight = 5
-[[menu.footer_left]]
-name = "Wedding Budget Planner"
-weight = 4
-[[menu.footer_left]]
-name = "Investments Guidebook"
-weight = 3
-[[menu.footer_left]]
-name = "Insurance Guidebook"
-url = "#"
-weight = 2
-[[menu.footer_left]]
 URL = "#"
 name = "Budgeting Sheet"
-url = "#"
-weight = 1
+[[menu.footer_middle]]
+URL = "pricing"
+name = "Pricing"
 [[menu.footer_middle]]
 URL = "#"
-name = "Podcast"
-url = "https://anchor.fm/honeybee-podcast"
-weight = 1
-[[menu.footer_right]]
-name = "Contact"
-url = "/contact"
-weight = 3
-[[menu.footer_right]]
-URL = "terms-conditions"
-name = "Terms & Conditions"
-weight = 1
+name = "Platform"
+[[menu.footer_middle]]
+URL = "#"
+name = "Features"
 [[menu.footer_right]]
 URL = "privacy-policy"
 name = "Privacy Policy"
-weight = 2
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 2
+[[menu.footer_right]]
+URL = "terms-conditions"
+name = "Terms & Conditions"
+[[menu.footer_right]]
+URL = "faq"
+name = "FAQ"
 [[menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 1
+[[menu.main]]
+URL = "pricing"
+name = "Pricing"
+weight = 2
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 3
+[[menu.main]]
+URL = "faq"
+name = "FAQ"
+weight = 4
 [params]
 author = "Honeybee Podcast"
 contact_form_action = "thehoneybeepodcast@gmail.com"
