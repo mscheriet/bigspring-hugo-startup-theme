@@ -1,9 +1,9 @@
 ---
-title: Conversation with XXX
-date: 2020-04-18T10:07:21.000+06:00
+title: "~Coming Soon"
+date: 2021-01-18T03:00:00+00:00
 image: images/blog/post-3.jpg
 type: regular
-description: This is meta description
+description: "~Coming soon"
 
 ---
 #### Heading example
