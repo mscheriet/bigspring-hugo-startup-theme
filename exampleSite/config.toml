@@ -37,7 +37,7 @@ name = "Privacy Policy"
 URL = "terms-conditions"
 name = "Terms & Conditions"
 [[menu.main]]
-URL = "https://www.honeybeepodcast.com/"
+URL = "https://anchor.fm/honeybee-podcast"
 name = "Podcast"
 weight = "2"
 [[menu.main]]
