@@ -13,8 +13,8 @@ unsafe = true
 URL = "Wedding Budget Planner"
 name = "Wedding Budget Planner"
 [[menu.footer_left]]
-URL = "Renovation Budget Guidebook"
-name = "Renovation Budget Guidebook"
+URL = "Renovation Budget Planner"
+name = "Renovation Budget Planner"
 [[menu.footer_left]]
 URL = "#"
 name = "Insurance Guidebook"
