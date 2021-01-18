@@ -9,11 +9,11 @@ banner:
     link: https://anchor.fm/honeybee-podcast
 feature:
   enable: true
-  title: Something You Need To Know
+  title: Checklist for Listening to Honeybee
   feature_item:
-  - name: Clean Code
+  - name: Your Savings
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: How much liquid savings do you have?
   - name: Object Oriented
     icon: ti-package
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
