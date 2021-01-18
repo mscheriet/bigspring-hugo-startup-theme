@@ -51,7 +51,7 @@ screenshot:
   title: Experience the best <br> workflow with us
   image: images/screenshot.svg
 call_to_action:
-  enable: true
+  enable: false
   title: Become a Sponsor
   image: "/images/honeybee-podcast.png"
   content: Interested in becoming a sponsor? Check out our sponsorships page for more
